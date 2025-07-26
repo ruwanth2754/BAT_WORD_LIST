@@ -55,5 +55,4 @@ The app may require basic storage permission to save generated wordlists.
 
 ---
 
-# ⬇️ DOWNLOAD 
-![Download](https://raw.githubusercontent.com/ruwanth2754/BAT_WORD_LIST/bat.apk)
+# ⬇️ [Download](https://raw.githubusercontent.com/ruwanth2754/BAT_WORD_LIST/bat.apk)
