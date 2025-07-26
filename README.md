@@ -1,6 +1,10 @@
 # BAT_WORD_LIST 
 #app #apk #wordlist #passwordhack
+
+
 ![logo](./logo7_24_225123.png)
+
+---
 
 A powerful password word list generator app for Android. Generate 3900+ custom password patterns instantly for ethical hacking, pentesting, and cybersecurity research.
 
@@ -35,11 +39,6 @@ A powerful password word list generator app for Android. Generate 3900+ custom p
 
 ---
 
-## 📸 Screenshots (Optional)
-<!-- You can add screenshots here -->
-<!-- ![screenshot1](screenshots/screen1.png) -->
-
----
 
 ## 📂 How It Works
 
@@ -55,30 +54,6 @@ A powerful password word list generator app for Android. Generate 3900+ custom p
 The app may require basic storage permission to save generated wordlists.
 
 ---
-<style>
-  .app{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    align-items: center;
-    text-align: center;
-  }
-  button{
-    align-items: center;
-    text-align: center;
-    background: blue;
-    height: 35px;
-    width: 120px;
-    border-radius: 30px;
-    color: #fff;
-    font-style: bold;
-    font-family: Sans-Serif,bold;
-  }
-  
-</style>
-<div class="app">
-  <a href="https://raw.githubusercontent.com/ruwanth2754/BAT_WORD_LIST/bat.apk">
-    <button>DOWNLOAD📥</button>
-  </a>
-</div>
+
+# ⬇️ DOWNLOAD 
+![Download](https://raw.githubusercontent.com/ruwanth2754/BAT_WORD_LIST/bat.apk)
