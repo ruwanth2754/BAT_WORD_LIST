@@ -26,7 +26,7 @@ A powerful password word list generator app for Android. Generate 3900+ custom p
 
 📦 **[Download BAT 1.1.0.apk](./bat.apk)**
 
-📦 **[Download BAT 1.1.2.apk](./BAT 1.1.2.apk)**
+📦 **[Download BAT 1.1.2.apk]('./BAT 1.1.2.apk')**
 
 ---
 
@@ -58,6 +58,6 @@ A powerful password word list generator app for Android. Generate 3900+ custom p
 
 ---
 
-<a href="https://raw.githubusercontent.com/ruwanth2754/BAT_WORD_LIST/main/BAT.apk" download>
+<a href="https://raw.githubusercontent.com/ruwanth2754/BAT_WORD_LIST/main/BAT 1.1.2.apk" download>
   <img src="https://img.shields.io/badge/Download-BAT-blue?style=for-the-badge&logo=android" alt="Download BAT">
 </a>
