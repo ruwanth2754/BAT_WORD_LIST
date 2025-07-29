@@ -15,7 +15,7 @@ A powerful password word list generator app for Android. Generate 3900+ custom p
 - **🧠 App Name**: BAT WORD LIST  
 - **💻 Developer**: CYBER NINJAS STUDIO  
 - **✍️ Author**: lasith ruwantha Amarawasha
-- **🔢 Version**: 1.1.0v  
+- **🔢 Version**: 1.1.2v  
 - **📦 Package Name**: `com.ruwantha.bat.app`
 
 ---
@@ -26,7 +26,7 @@ A powerful password word list generator app for Android. Generate 3900+ custom p
 
 📦 **[Download BAT 1.1.0.apk](./bat.apk)**
 
-📦 **[Download BAT 1.1.2.apk]('./BAT 1.1.2.apk')**
+📦 **[Download BAT 1.1.2.apk](./BAT%201.1.2.apk)**
 
 ---
 
